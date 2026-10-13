@@ -1,4 +1,4 @@
-module com.example.projectd {
+module com.example.srcauctionsys {
     requires javafx.controls;
     requires javafx.fxml;
 
@@ -6,6 +6,6 @@ module com.example.projectd {
     requires com.dlsc.formsfx;
     requires org.kordamp.bootstrapfx.core;
 
-    opens com.example.projectd to javafx.fxml;
-    exports com.example.projectd;
+    opens com.example.srcauctionsys to javafx.fxml;
+    exports com.example.srcauctionsys;
 }

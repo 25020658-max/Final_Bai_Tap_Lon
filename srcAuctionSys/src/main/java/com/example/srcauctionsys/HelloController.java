@@ -1,4 +1,4 @@
-package com.example.projectd;
+package com.example.srcauctionsys;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
